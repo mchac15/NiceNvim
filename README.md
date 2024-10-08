@@ -17,7 +17,7 @@ Want an optimized NeoVim experience? Simply clone this repository and enjoy!
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/NiceNvim.git ~/.config/nvim
+   git clone https://github.com/mchac15/NiceNvim.git ~/.config/nvim
    ```
 
 2. **Install dependencies**:
